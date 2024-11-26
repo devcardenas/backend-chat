@@ -71,8 +71,7 @@ io.on("connection", async (socket) => {
   const username = socket.handshake.query.username;
   console.log(`Usuario conectado: ${username} (ID: ${socket.id})`);
 
-  // Registrar usuario conectado en la base de datos
-  // Guardar el usuario en la base de datos
+  // Registramos el usuario conectado en la base de datos
   try {
     const user = await User.create({ idSocket: socket.id, username });
     console.log("Usuario registrado:", user);
