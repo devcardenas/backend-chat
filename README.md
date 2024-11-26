@@ -16,9 +16,9 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ## Instalación
 
-1. **Clona el repositorio:**
+1. **Clona el repositorio**
 
-2. **Instala las dependencias::**
+2. **Instala las dependencias**
 
    ```
    npm install
