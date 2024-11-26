@@ -1,4 +1,4 @@
-# Express.js + MongoDB Boilerplate
+# Express.js + MongoDB + Socket.io
 
 Este proyecto utiliza **Express.js** como framework backend y **MongoDB** como base de datos. 
 
