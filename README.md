@@ -8,9 +8,9 @@ Este proyecto utiliza **Express.js** como framework backend y **MongoDB** como b
 
 Antes de comenzar, asegúrate de tener instalado:
 
-- [Node.js](https://nodejs.org/) (versión LTS recomendada).
-- [MongoDB](https://www.mongodb.com/) en tu máquina o una instancia en la nube (como [Atlas](https://www.mongodb.com/atlas)).
-- [Git](https://git-scm.com/).
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Git](https://git-scm.com/)
 
 ---
 
